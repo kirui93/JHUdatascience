@@ -2,7 +2,7 @@ README
 ================
 
 INTRODUCTION
-------------------
+------------
 
 This repository is the project for the Coursera Data Science Specialization Course 3: Getting and Cleaning Data 
 
